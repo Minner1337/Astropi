@@ -1,2 +1,2 @@
 # Astropi
-Astrophotographie made available for everyone!
+Astrophotography made available for everyone!
